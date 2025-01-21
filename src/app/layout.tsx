@@ -17,7 +17,7 @@ const lato = Lato({
   weight: ['400', '700', '900'],
   display: 'swap'
 });
-
+// 
 export default async function RootLayout({
   children
 }: {
